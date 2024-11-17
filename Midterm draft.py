@@ -806,8 +806,7 @@ def load_all_data():
 # Initialize the OpenAI client for NVIDIA Llama API
 ##client = OpenAI(
     base_url="https://integrate.api.nvidia.com/v1",  # NVIDIA API base URL
-    api_key="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"  # Replace with your actual API key
-#)
+    api_key="
 
 # Function to filter the data based on the user's question
 def filter_course_data(question, all_data):
